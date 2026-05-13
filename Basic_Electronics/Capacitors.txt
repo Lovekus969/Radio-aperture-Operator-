@@ -1,0 +1,6 @@
+Capacitor
+
+A capacitor stores electrical energy temporarily.
+
+Think of it like:
+    a tiny rechargeable battery

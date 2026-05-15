@@ -5,3 +5,12 @@ This is the first thing every radio operator and electronics student learns.
 Voltage (V) → electrical pressure
 Current (I) → flow of electrons
 Resistance (R) → opposition to current
+
+
+Frequency and Waves
+
+Radio is all about electromagnetic waves.
+
+Important formula:
+
+              v=fλ

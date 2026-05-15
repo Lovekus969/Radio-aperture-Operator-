@@ -1,0 +1,14 @@
+Inductors
+
+Inductor
+
+An inductor stores energy in a magnetic field.
+
+VERY important in radio.
+
+Used for:
+
+RF tuning
+Oscillators
+Antennas
+Filters

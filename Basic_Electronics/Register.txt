@@ -1,0 +1,7 @@
+1. Voltage, Current, Resistance
+
+This is the first thing every radio operator and electronics student learns.
+
+Voltage (V) → electrical pressure
+Current (I) → flow of electrons
+Resistance (R) → opposition to current

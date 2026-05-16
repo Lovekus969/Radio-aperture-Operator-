@@ -14,3 +14,8 @@ Radio is all about electromagnetic waves.
 Important formula:
 
               v=fλ
+
+We will se all the frequecy  from VHF very heigh frequency with band width 2M 
+ as c = lemda * F 
+f = c/lemda
+= 300 * 10 ^6/2 = 150Mhz

@@ -1,0 +1,24 @@
+A human body around 2 meters tall can actually interact with radio waves near the 2-meter amateur band.
+
+The relationship comes from wavelength:
+
+λ=c/f
+	​
+
+
+Where:
+
+      λ = wavelength
+      c = speed of light
+      f = frequency
+ The 2-Meter Amateur Band
+
+The famous amateur radio VHF band:
+
+around 144–148 MHz
+
+has a wavelength close to:
+
+λ≈2 meters
+
+That is why it is called the 2-meter band.

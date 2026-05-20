@@ -22,3 +22,26 @@ has a wavelength close to:
 λ≈2 meters
 
 That is why it is called the 2-meter band.
+
+Where:
+
+c=300,000,000 m/s (speed of light)
+λ=30 m
+
+Substitute values:
+
+f= 300×10^6/ 30
+	​
+
+
+Result:
+
+f=10×10^6
+
+
+So yes:
+
+wavelength = 30 meters
+frequency = 10 MHz
+
+This lies in the High Frequency Radio range and is close to amateur radio HF bands used for long-distance communication.

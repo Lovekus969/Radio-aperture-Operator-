@@ -45,3 +45,6 @@ wavelength = 30 meters
 frequency = 10 MHz
 
 This lies in the High Frequency Radio range and is close to amateur radio HF bands used for long-distance communication.
+
+
+all frequency used 

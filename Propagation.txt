@@ -13,3 +13,6 @@ v = wave speed
 f = frequency
 λ = wavelength
 
+Line-of-Sight (Space) Waves: Used by higher frequencies (like VHF/UHF, Wi-Fi, and cell phones). Waves travel in a straight line and are limited by the physical horizon and obstacles.
+Sky Waves: Used by High Frequency (HF) shortwave signals. These waves bounce off the Earth's ionosphere, allowing them to travel around the curve of the Earth and achieve long-distance, global communication.
+Ground Waves: Lower frequency waves (like AM radio) physically hug the curvature of the Earth's surface, making them ideal for reliable, medium-range local broadcasting
